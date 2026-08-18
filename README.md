@@ -17,7 +17,7 @@ I'm especially interested in building smart applications and AI assistants that 
 ## 🛠️ Tech Arsenal
 ## Languages
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,javascript,html5,c++,css3" /> </p>
+<p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
 ## Frameworks & Libraries
 
