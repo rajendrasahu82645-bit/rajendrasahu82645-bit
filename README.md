@@ -8,11 +8,14 @@ I'm especially interested in building smart applications and AI assistants that 
 
 ## ⚡ What Drives Me
 
-🌐 Web Development  █████████████████░░ Frontend + Backend
-🐍 Python Development ███████████████████░ Automation & Applications
-🤖 AI & Automation ████████████████░░░░ Exploring & Building
-📱 App Development ██████████████░░░░░░ Android & Web Apps
-☁️ Deployment ████████████░░░░░░░░ Hosting & Cloud
+| Area                      | Focus                     | Progress               |
+| ------------------------- | ------------------------- | ---------------------- |
+| 🌐 **Web Development**    | Frontend + Backend        | `█████████████████░░░` |
+| 🐍 **Python Development** | Automation & Applications | `███████████████████░` |
+| 🤖 **AI & Automation**    | Exploring & Building      | `████████████████░░░░` |
+| 📱 **App Development**    | Android & Web Apps        | `██████████████░░░░░░` |
+| ☁️ **Deployment**         | Hosting & Cloud           | `████████████░░░░░░░░` |
+
 
 ## 🛠️ Tech Arsenal
 ## 💻 Languages
