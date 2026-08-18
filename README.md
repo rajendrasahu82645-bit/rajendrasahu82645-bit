@@ -80,13 +80,13 @@ I'm especially interested in building smart applications and AI assistants that 
 
 
 ## 🚀 Featured Projects
-🤖 Ethan — Personal AI Assistant
+##   🤖 Ethan — Personal AI Assistant
 
 A smart personal assistant designed with voice & text interaction, web search, reminders, automation, and AI-powered responses.
 
 Python · Flask · JavaScript · HTML · CSS · AI
 
-🎓 Smart Campus Connection
+##    🎓 Smart Campus Connection
 
 A student-focused platform designed to connect campus services and provide useful digital features through a centralized application.
 
@@ -97,10 +97,10 @@ Python · Web Technologies · Database
 🤖 Artificial Intelligence & Machine Learning
 🐍 Advanced Python Development
 🌐 Full-Stack Web Development
-☁️ Cloud Deployment & APIs
-📱 Android Development
+☁️ Cloud Deployment & APIs,Aws
+📱 Android Development 
 
-🎯 2026 Goals
+## 🎯 2026 Goals
 🚀 Build production-ready full-stack applications
 🤖 Improve my AI & automation skills
 🌐 Learn advanced backend architecture
